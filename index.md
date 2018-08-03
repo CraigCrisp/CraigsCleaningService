@@ -13,7 +13,7 @@ services:
   description: Carpet Cleaning can be a real hassle if you have to wait days for your
     carpets to dry. We can help with our Quick Dry Carpet Cleaning.
   icon: "/uploads/2018/08/03/FB_IMG_1532515062091.jpg"
-sub_heading: Carpet Cleaner In The Riverland
+sub_heading: Carpet Cleaner In The Riverland.
 textline: |-
   Craig's Cleaning Service in Loxton is your local Riverland Carpet Cleaning Service.
 
