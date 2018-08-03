@@ -8,7 +8,11 @@ partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
-services: []
+services:
+- heading: 'Carpet Cleaning '
+  description: Carpet Cleaning can be a real hassle if you have to wait days for your
+    carpets to dry. We can help with our Quick Dry Carpet Cleaning.
+  icon: "/uploads/2018/08/03/FB_IMG_1532515062091.jpg"
 sub_heading: Carpet Cleaner In The Riverland
 textline: |2-
 
