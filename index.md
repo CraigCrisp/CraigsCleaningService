@@ -4,6 +4,7 @@ banner_image: "/uploads/2018/08/03/FB_IMG_1532515062091.jpg"
 layout: landing-page
 heading: 'Craig''s Cleaning Service '
 partners:
+- "/uploads/2018/08/03/FB_IMG_1532515062091.jpg"
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
