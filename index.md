@@ -14,11 +14,12 @@ services:
     carpets to dry. We can help with our Quick Dry Carpet Cleaning.
   icon: "/uploads/2018/08/03/FB_IMG_1532515062091.jpg"
 sub_heading: Carpet Cleaner In The Riverland
-textline: |2-
-
+textline: |-
   Craig's Cleaning Service in Loxton is your local Riverland Carpet Cleaning Service.
 
   Notice what we can achieve for you in the photos below .
+
+  Feel free to call us on 0429845156.
 
   ![](/uploads/2018/08/03/IMG_20180724_092627494.jpg)
 
